@@ -1,4 +1,6 @@
 # OCamlMessageEncryption
+A fun little project I made to help teach my friends about binary and how computers store data.
+
 Encrypts messages into binary representations of Ascii table values.
 
 This encryption method might be recognizable by a trained programmer's eye, 
