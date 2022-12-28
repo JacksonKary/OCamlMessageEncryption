@@ -8,6 +8,8 @@ but to the average person (teacher, boss, snooping partner, etc), your messages 
 
 [See examples below](https://github.com/JacksonKary/OCamlMessageEncryption#examples "https://github.com/JacksonKary/OCamlMessageEncryption#examples")
 
+[Here is the Ascii table used for reference](https://upload.wikimedia.org/wikipedia/commons/1/1b/ASCII-Table-wide.svg "https://upload.wikimedia.org/wikipedia/commons/1/1b/ASCII-Table-wide.svg")
+
 ## How to use
 
 To use this program, one needs access to a linux terminal with an updated version of OCaml (4.08.1), and the wordToAscii.ml file.
