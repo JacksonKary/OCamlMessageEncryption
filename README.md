@@ -4,7 +4,7 @@ Encrypts messages into binary representations of Ascii table values.
 This encryption method might be recognizable by a trained programmer's eye, 
 but to the average person (teacher, boss, snooping partner, etc), your messages will be completely secure.
 
-[See examples below](https://github.com/JacksonKary/OCamlMessageEncryption/new/main?readme=1#examples "https://github.com/JacksonKary/OCamlMessageEncryption/new/main?readme=1#examples")
+[See examples below](https://github.com/JacksonKary/OCamlMessageEncryption#examples "https://github.com/JacksonKary/OCamlMessageEncryption#examples")
 
 ## How to use
 
