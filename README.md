@@ -14,14 +14,26 @@ While this encryption method might be recognizable by a trained programmer, it w
 > **⚠️ Important:**  
 > To use this program, you need access to a Linux terminal with an updated version of OCaml (4.08.1), and the `wordToAscii.ml` file.
 
-1. In the Linux terminal, navigate to the directory containing `wordToAscii.ml`.
-2. Open the interactive OCaml terminal with the following command:
+1. In a Linux terminal, clone this directory:
+
+   ```bash
+   git clone https://github.com/JacksonKary/OCamlMessageEncryption.git
+   ```
+   
+2. In the Linux terminal, navigate to the directory containing `wordToAscii.ml`.
+   > **Note:** Assuming you cloned the repo in your current working directory:
+
+   ```bash
+   cd OCamlMessageEncryption
+   ```
+   
+3. Open the interactive OCaml terminal with the following command:
 
    ```bash
    utop
    ```
 
-3. To run the program, copy the following command into the terminal:
+4. To run the program, copy the following command into the terminal:
 
    ```ocaml
    #use "wordToAscii.ml";;
@@ -30,7 +42,7 @@ While this encryption method might be recognizable by a trained programmer, it w
    The command line will look like this:  
    ```utop # #use "wordToAscii.ml";;```
 
-4. You're now all set to start encrypting and decrypting messages!
+5. You're now all set to start encrypting and decrypting messages!
 
 ---
 
